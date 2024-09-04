@@ -1,5 +1,6 @@
 # Alfresco TechQuest Class Preparation
 Class prep guide for Alfresco TechQuest attendees. 
+Find the class(es) that you will attend from this list and ensure you have the proper programs and services installed. Follow the instructions to install if necessary.
 
 ### Alfresco Out-of-Process Extension Project with ActiveMQ Messaging
 1. Quay.io Alfresco account (to pull enterprise images)
