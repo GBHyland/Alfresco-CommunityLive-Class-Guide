@@ -18,7 +18,7 @@ Find the class(es) that you will attend from this list and ensure you have the p
         java -version
      ```
    ### Windows:
-   [https://www.youtube.com/watch?v=SQykK40fFds](https://www.youtube.com/watch?v=SQykK40fFds)
+     [https://www.youtube.com/watch?v=SQykK40fFds](https://www.youtube.com/watch?v=SQykK40fFds)
 6. Maven installed on your machine. (Follow these steps to install - **Note:** Java must be installed first.)
     ### Mac OS
     1. In terminal window enter the following command:
@@ -35,7 +35,7 @@ Find the class(es) that you will attend from this list and ensure you have the p
       mvn -version
     ```
     ### Windows
-   [https://www.youtube.com/watch?v=YTvlb6eny_0](https://www.youtube.com/watch?v=YTvlb6eny_0)
+     [https://www.youtube.com/watch?v=YTvlb6eny_0](https://www.youtube.com/watch?v=YTvlb6eny_0)
    
 ### Developing Modern Business Applications with Alfresco Development Framework (ADF)
 1. Visual Studio Code application installed:
