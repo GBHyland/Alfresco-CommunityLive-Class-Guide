@@ -46,3 +46,13 @@ Find the class(es) that you will attend from this list and ensure you have the p
    * Open the Extensions Marketplace by pressing Ctrl+Shift+X or clicking the icon with four squares in a box and the top right square exploding out
    * Search for Remote-SSH in the Search Extensions in Marketplace search bar
    * Select the plugin and click the Install button
+  
+
+## Alfresco Migrations: Solr to Elasticsearch & ACS Embedded Workflows to APS
+1. Quay.io Alfresco account (to pull enterprise images)
+   * If you do not have a Quay.io account, obtain trial credentials by following these steps:
+     * Visit the following url and submit the form. Provide an email address you can access. Quay.io trial credentials will be emailed to the address you provide.
+         ```
+           https://www.hyland.com/en/resources/alfresco-ecm-download
+         ```
+
