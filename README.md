@@ -2,7 +2,8 @@
 Class prep guide for Alfresco TechQuest attendees. 
 Find the class(es) that you will attend from this list and ensure you have the proper programs and services installed. Follow the instructions to install if necessary.
 
-### Alfresco Out-of-Process Extension Project with ActiveMQ Messaging
+
+## Alfresco Out-of-Process Extension Project with ActiveMQ Messaging
 1. Quay.io Alfresco account (to pull enterprise images)
    * If you do not have a Quay.io account, obtain trial credentials by following these steps:
      * Visit the following url and submit the form. Provide an email address you can access. Quay.io trial credentials will be emailed to the address you provide.
@@ -36,8 +37,9 @@ Find the class(es) that you will attend from this list and ensure you have the p
     ```
     ### Windows
      [https://www.youtube.com/watch?v=YTvlb6eny_0](https://www.youtube.com/watch?v=YTvlb6eny_0)
+
    
-### Developing Modern Business Applications with Alfresco Development Framework (ADF)
+## Developing Modern Business Applications with Alfresco Development Framework (ADF)
 1. Visual Studio Code application installed:
    * https://code.visualstudio.com/download
 2. SSH Plugin for Visual Studio Code:
