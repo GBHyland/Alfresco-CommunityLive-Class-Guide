@@ -10,13 +10,17 @@ Find the class(es) that you will attend from this list and ensure you have the p
            https://www.hyland.com/en/resources/alfresco-ecm-download
          ```
 3. IntelliJ Software (JDE Environment) - (https://www.jetbrains.com/idea/download)
-4. Java installed on your machine: 
+4. Java installed on your machine:
+   ### MAC OS
    * https://www.oracle.com/java/technologies/downloads/?er=221886#jdk22-mac
    * To check if Java is installed enter the following command in Terminal:
      ```
         java -version
      ```
-5. Maven installed on your machine. (Follow these steps to install - **Note:** Java must be installed first.)
+   ### Windows:
+   [https://www.youtube.com/watch?v=SQykK40fFds](https://www.youtube.com/watch?v=SQykK40fFds)
+6. Maven installed on your machine. (Follow these steps to install - **Note:** Java must be installed first.)
+    ### Mac OS
     1. In terminal window enter the following command:
     ```
       /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -30,7 +34,9 @@ Find the class(es) that you will attend from this list and ensure you have the p
     ```
       mvn -version
     ```
-
+    ### Windows
+   [https://www.youtube.com/watch?v=YTvlb6eny_0](https://www.youtube.com/watch?v=YTvlb6eny_0)
+   
 ### Developing Modern Business Applications with Alfresco Development Framework (ADF)
 1. Visual Studio Code application installed:
    * https://code.visualstudio.com/download
