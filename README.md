@@ -12,6 +12,7 @@ Find the class(es) that you will attend from this list and ensure you have the p
          ```
 3. IntelliJ Software (JDE Environment) - (https://www.jetbrains.com/idea/download)
 4. Java installed on your machine:
+   * Check if you have Java installed by running the following command in your Terminal / CMD prompt: ```java --version```. The output should show the version of Java you have. If not found, follow the steps below to install Java.
    ### MAC OS
    * https://www.oracle.com/java/technologies/downloads/?er=221886#jdk22-mac
    * To check if Java is installed enter the following command in Terminal:
@@ -21,6 +22,7 @@ Find the class(es) that you will attend from this list and ensure you have the p
    ### Windows:
      [https://www.youtube.com/watch?v=SQykK40fFds](https://www.youtube.com/watch?v=SQykK40fFds)
 6. Maven installed on your machine. (Follow these steps to install - **Note:** Java must be installed first.)
+   * Check if you have Maven installed on your machine by entering this command into your Terminal / CMD prompt: ```mvn --version```. The output should show the version of Maven you have. If not found, follow the steps below to install Maven.
     ### Mac OS
     1. In terminal window enter the following command:
     ```
