@@ -1,4 +1,4 @@
-# Alfresco TechQuest Class Preparation
+# Alfresco CommunityLive Class Preparation
 Class prep guide for Alfresco TechQuest attendees. 
 Find the class(es) that you will attend from this list and ensure you have the proper programs and services installed. Follow the instructions to install if necessary.
 
