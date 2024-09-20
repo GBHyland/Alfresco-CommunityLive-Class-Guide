@@ -21,7 +21,7 @@ Find the class(es) that you will attend from this list and ensure you have the p
      ```
    ### Windows:
      [https://www.youtube.com/watch?v=SQykK40fFds](https://www.youtube.com/watch?v=SQykK40fFds)
-6. Maven installed on your machine. (Follow these steps to install - **Note:** Java must be installed first.)
+5. Maven installed on your machine. (Follow these steps to install - **Note:** Java must be installed first.)
    * Check if you have Maven installed on your machine by entering this command into your Terminal / CMD prompt: ```mvn --version```. The output should show the version of Maven you have and if so you are done with this step. If not found, follow the steps below to install Maven.
     ### Mac OS
     1. In terminal window enter the following command:
@@ -39,6 +39,8 @@ Find the class(es) that you will attend from this list and ensure you have the p
     ```
     ### Windows
      [https://www.youtube.com/watch?v=YTvlb6eny_0](https://www.youtube.com/watch?v=YTvlb6eny_0)
+6. Docker installed on your machine:
+   * [Install Docker Desktop here](https://www.docker.com/products/docker-desktop/)
 
    
 ## Developing Modern Business Applications with Alfresco Development Framework (ADF)
