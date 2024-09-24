@@ -2,8 +2,8 @@
 It was our pleasure meeting and sharing information with you. We hope to see you again and safe travels back to your place of origin! 
 
 ### Instructors
-Greg Bousley - Instructional Designer
-Logan Jensen - Technical Trainer
+* Greg Bousley - Instructional Designer
+* Logan Jensen - Technical Trainer
 
 **Please see below for a link to each class' presentations and references to materials.**
 
