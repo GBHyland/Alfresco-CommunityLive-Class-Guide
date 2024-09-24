@@ -1,9 +1,38 @@
-# Alfresco CommunityLive Class Guide
+# Thank you for joining us at CommunityLive 2024!
+It was our pleasure meeting and sharing information with you. We hope to see you again and safe travels back to your place of origin! 
+
+### Instructors
+Greg Bousley - Instructional Designer
+Logan Jensen - Technical Trainer
+
+**Please see below for a link to each class' presentations and references to materials.**
+
+### References by Class:
+**ACS Out of Process Extensions with ActiveMQ**
+  * [Presentation](https://github.com/GBHyland/Alfresco-CommunityLive-Class-Guide/blob/main/ACS-extension-activemq.pptx)
+  * [Out of Process Overview](https://docs.alfresco.com/content-services/latest/develop/oop-ext-points/)
+  * [Platform Architecture](https://docs.alfresco.com/content-services/latest/develop/software-architecture/)
+  * [Out-of-Process SDK](https://docs.alfresco.com/content-services/latest/develop/oop-sdk/)
+
+**Enriching Content with Alfresco Intelligence Services**
+  * [Presentation](https://github.com/GBHyland/Alfresco-CommunityLive-Class-Guide/blob/main/2024%20CLIVE%20AIS%20Presentation%20-%20WIP%20copy.pptx)
+
+**APS Workflow Automation with Alfresco Intelligence Services**
+  * [Presentation](https://github.com/GBHyland/Alfresco-CommunityLive-Class-Guide/blob/main/aps-ais-textract.pptx)
+  * [Alfresco Intelligence Services](https://docs.alfresco.com/intelligence-services/latest/)
+  * [AIS Architecture](https://docs.alfresco.com/intelligence-services/latest/admin/)
+  * [Amazon Textract](https://docs.aws.amazon.com/textract/latest/dg/what-is.html)
+
+**Developing Modern Business Applications with Alfresco Development Platform**
+  * [Presentation](https://github.com/GBHyland/Alfresco-CommunityLive-Class-Guide/blob/main/ADF%202024%20PPT%202.pptx)
+  * [Alfresco NG2 Components Github](https://github.com/Alfresco/alfresco-ng2-components)
+
+## Alfresco Preparation by Class:
 Class prep guide for Alfresco TechQuest attendees. 
 Find the class(es) that you will attend from this list and ensure you have the proper programs and services installed. Follow the instructions to install if necessary.
 
 
-## Alfresco Out-of-Process Extension Project with ActiveMQ Messaging
+### Alfresco Out-of-Process Extension Project with ActiveMQ Messaging
 1. Quay.io Alfresco account (to pull enterprise images)
    * If you do not have a Quay.io account, obtain trial credentials by following these steps:
      * Visit the following url and submit the form. Provide an email address you can access. Quay.io trial credentials will be emailed to the address you provide.
@@ -43,7 +72,7 @@ Find the class(es) that you will attend from this list and ensure you have the p
    * [Install Docker Desktop here](https://www.docker.com/products/docker-desktop/)
 
    
-## Developing Modern Business Applications with Alfresco Development Framework (ADF)
+### Developing Modern Business Applications with Alfresco Development Framework (ADF)
 1. Visual Studio Code application installed:
    * https://code.visualstudio.com/download
 2. SSH Plugin for Visual Studio Code:
