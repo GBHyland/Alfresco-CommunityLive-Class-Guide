@@ -13,25 +13,25 @@ It was our pleasure meeting and sharing information with you. We hope to see you
   * [Out of Process Overview](https://docs.alfresco.com/content-services/latest/develop/oop-ext-points/)
   * [Platform Architecture](https://docs.alfresco.com/content-services/latest/develop/software-architecture/)
   * [Out-of-Process SDK](https://docs.alfresco.com/content-services/latest/develop/oop-sdk/)
-
+---
 **Enriching Content with Alfresco Intelligence Services**
   * [Presentation](https://github.com/GBHyland/Alfresco-CommunityLive-Class-Guide/blob/main/2024%20CLIVE%20AIS%20Presentation%20-%20WIP%20copy.pptx)
-
+---
 **APS Workflow Automation with Alfresco Intelligence Services**
   * [Presentation](https://github.com/GBHyland/Alfresco-CommunityLive-Class-Guide/blob/main/aps-ais-textract.pptx)
   * [Alfresco Intelligence Services](https://docs.alfresco.com/intelligence-services/latest/)
   * [AIS Architecture](https://docs.alfresco.com/intelligence-services/latest/admin/)
   * [Amazon Textract](https://docs.aws.amazon.com/textract/latest/dg/what-is.html)
-
+---
 **Developing Modern Business Applications with Alfresco Development Platform**
   * [Presentation](https://github.com/GBHyland/Alfresco-CommunityLive-Class-Guide/blob/main/ADF%202024%20PPT%202.pptx)
   * [Alfresco NG2 Components Github](https://github.com/Alfresco/alfresco-ng2-components)
-
+---
 ## Alfresco Preparation by Class:
 Class prep guide for Alfresco TechQuest attendees. 
 Find the class(es) that you will attend from this list and ensure you have the proper programs and services installed. Follow the instructions to install if necessary.
 
-
+---
 ### Alfresco Out-of-Process Extension Project with ActiveMQ Messaging
 1. Quay.io Alfresco account (to pull enterprise images)
    * If you do not have a Quay.io account, obtain trial credentials by following these steps:
